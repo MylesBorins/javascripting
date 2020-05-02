@@ -16,4 +16,4 @@ Atualmente estamos imprimindo uma **string** de caracteres para o terminal: `hel
 
 No próximo desafio vamos nos focar em aprender sobre **variáveis**.
 
-Execute `javascripting` no console para escolher o próximo desafio.
+Execute `esmoduling` no console para escolher o próximo desafio.

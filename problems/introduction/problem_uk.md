@@ -1,15 +1,15 @@
 Давайте створемо окрему директорію для цього воркшопу, щоб зберігати чистоту в наших файлах.
 
-Запустіть цю команду, щоб створити директорію, яка називатиметься `javascripting` (або будь-як інакше):
+Запустіть цю команду, щоб створити директорію, яка називатиметься `esmoduling` (або будь-як інакше):
 
 ```bash
-mkdir javascripting
+mkdir esmoduling
 ```
 
-Перейдіть в директорію `javascripting` командою:
+Перейдіть в директорію `esmoduling` командою:
 
 ```bash
-cd javascripting
+cd esmoduling
 ```
 
 Створіть файл `introduction.js`:
@@ -32,11 +32,11 @@ console.log('hello')
 Збережіть файл, а потім перевірте вашу програму запустивши команду:
 
 ```bash
-javascripting verify introduction.js
+esmoduling verify introduction.js
 ```
 
 До речі, на процязі цього курсу ви можете можете називати файли так, як вам подобається. Якщо ви хочете назвати файл ім’ям `catsAreAwesome.js` для кожної вправи, то зробіть це. Лише не забудьте потім перевірити його:
 
 ```bash
-javascripting verify catsAreAwesome.js
+esmoduling verify catsAreAwesome.js
 ```

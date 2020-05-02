@@ -16,4 +16,4 @@ For øyeblikket skriver vi ut en **string** av bokstaver til skjermen: `hello`.
 
 I den neste oppgaven skal vi lære om **variabler**.
 
-Kjør kommandoen `javascripting` i terminalen for å velge neste oppgave.
+Kjør kommandoen `esmoduling` i terminalen for å velge neste oppgave.

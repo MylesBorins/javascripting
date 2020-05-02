@@ -1,15 +1,15 @@
 For å holde ting organisert kan vi lage en ny katalog for denne workshopen.
 
-Kjør denne kommandoen for å lage en katalog som heter `javascripting` (eller noe annet om du ønsker):
+Kjør denne kommandoen for å lage en katalog som heter `esmoduling` (eller noe annet om du ønsker):
 
 ```bash
-mkdir javascripting
+mkdir esmoduling
 ```
 
-Bytt til `javascripting` katalogen:
+Bytt til `esmoduling` katalogen:
 
 ```bash
-cd javascripting
+cd esmoduling
 ```
 
 Lag en fil som heter `introduction.js`:
@@ -33,5 +33,5 @@ console.log('hello')
 Lagre filen, deretter sjekker du om programmet er korrekt ved å kjøre følgende kommando:
 
 ```bash
-javascripting verify introduction.js
+esmoduling verify introduction.js
 ```

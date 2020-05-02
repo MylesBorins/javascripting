@@ -1,15 +1,15 @@
 このワークショップで使うディレクトリを作りましょう。
 
-次のコマンドを実行して、`javascripting` ディレクトリを作ります。
+次のコマンドを実行して、`esmoduling` ディレクトリを作ります。
 
 ```bash
-mkdir javascripting
+mkdir esmoduling
 ```
 
-`javascripting` ディレクトリに移動しましょう。
+`esmoduling` ディレクトリに移動しましょう。
 
 ```bash
-cd javascripting
+cd esmoduling
 ```
 
 次のコマンドで `introduction.js` ファイルを作成します。
@@ -28,6 +28,6 @@ console.log('hello')
 ファイルを保存します。次のコマンドを実行し、あなたのプログラムが正しく動くか確認しましょう。
 
 ```bash
-javascripting verify introduction.js
+esmoduling verify introduction.js
 ```
 

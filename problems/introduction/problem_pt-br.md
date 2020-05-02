@@ -1,15 +1,15 @@
 Para manter uma boa organização, vamos criar uma pasta para este workshop.
 
-Execute este comando para criar um diretório chamado `javascripting`:
+Execute este comando para criar um diretório chamado `esmoduling`:
 
 ```bash
-mkdir javascripting
+mkdir esmoduling
 ```
 
 Mude o diretório do console para a pasta que você acabou de criar:
 
 ```bash
-cd javascripting
+cd esmoduling
 ```
 
 Crie um arquivo chamado `introduction.js`:
@@ -32,7 +32,7 @@ console.log('hello')
 Salve o arquivo, e então verifique se o seu programa está correto executando este comando:
 
 ```bash
-javascripting verify introduction.js
+esmoduling verify introduction.js
 ```
 
 
