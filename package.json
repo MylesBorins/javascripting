@@ -7,9 +7,9 @@
   },
   "author": "Myles Borins <myles.borins@gmail.com>",
   "bin": {
-    "javascripting": "./bin/javascripting"
+    "esmoduling": "./bin/esmoduling"
   },
-  "main": "./index.js",
+  "exports": "./index.mjs",
   "preferGlobal": true,
   "dependencies": {
     "colors": "^1.4.0",
