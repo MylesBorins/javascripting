@@ -5,7 +5,7 @@ import adventure from 'workshopper-adventure';
 import header from 'workshopper-adventure/default/header.js'
 import footer from './lib/footer.js';
 
-import problem from  './lib/problem.js'
+import problem from  './lib/problem.mjs'
 
 const require = createRequire(import.meta.url);
 const dirname = new URL('./', import.meta.url).pathname;
