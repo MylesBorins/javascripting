@@ -1,11 +1,11 @@
 {
-  "name": "javascripting",
-  "description": "Learn JavaScript by adventuring around in the terminal.",
+  "name": "esmoduling",
+  "description": "Learn ES Modules by adventuring around in the terminal.",
   "version": "2.7.3",
   "repository": {
-    "url": "https://github.com/workshopper/javascripting"
+    "url": "https://github.com/MylesBorins/esmoduling"
   },
-  "author": "sethvincent",
+  "author": "Myles Borins <myles.borins@gmail.com>",
   "bin": {
     "javascripting": "./bin/javascripting"
   },

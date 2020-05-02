@@ -1,23 +1,18 @@
 # Contributing
 
-Code contributions are welcome and highly encouraged! For instructions on and help with creating a great pull request, please read the [workshopper contributing document](https://github.com/workshopper/org/blob/master/CONTRIBUTING.md).
+Code contributions are welcome and highly encouraged!
 
 If you have questions about contributing, please create an issue.
 
-## Lead Maintainers
+## Code reviews
 
-The role of lead maintainers is to triage and categorize issues, answer questions about contributing to the repository, review and give feedback on PRs, and maintain the quality of a workshopper's codebase and repository.
+All submissions, including submissions by project members, require review. We
+use GitHub pull requests for this purpose. Consult
+[GitHub Help](https://help.github.com/articles/about-pull-requests/) for more
+information on using pull requests.
 
-**Current Lead Maintainers**
-- Seth Vincent [@sethvincent](https://github.com/sethvincent)
-- Adam Brady [@SomeoneWeird](https://github.com/SomeoneWeird)
-- Anshul [@AnshulMalik](https://github.com/AnshulMalik)
-- Martin Splitt [@AVGP](https://github.com/AVGP)
-- Seth [@itzsaga](https://github.com/itzsaga)
-- Lawal Sauban [@sauban](https://github.com/sauban)
+## Code of Conduct
 
-### Volunteer
-
-Submitting many PRs? Please volunteer to lead this repository! Lead maintainers are selected in the philosophy of [Open Open Source](http://openopensource.org/):
-
-> Individuals making significant and valuable contributions are given commit-access to the project to contribute as they see fit. 
+This project has a code of conduct. Those who are behaving in a disruptive
+manner, even if not explicitly outlined in the code of conduct, may be
+temporaly or permanently banned from participating in this project.
